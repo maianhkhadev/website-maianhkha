@@ -14,7 +14,7 @@
         </div>
         <div class="col-xl-6">
           <div class="content">
-            I'm a <b>Front-end and UI Developer</b> from Ho Chi Minh City, Vietnam. I Have more than 4 year of working experience as a web developer. This is some information about me:
+            I'm a <b>Front-end and UI Developer</b> from Ho Chi Minh City, Vietnam. I have more than 4 year of working experience as a web developer. This is some information about me:
           </div>
           <ul>
             <li><span class="">Name:</span> Mai Anh Kha</li>
