@@ -72,6 +72,16 @@
             <span>Vue</span>
           </div>
         </div>
+        <div class="col-xl-3">
+          <div class="project">
+            <a href="http://bakery.maianhkha.com/" target="_blank">
+              <img class="w-100" src="~@/assets/images/projects/im-07.jpg" alt=""/>
+            </a>
+            <a class="name" href="http://bakery.maianhkha.com/" target="_blank">Bakery (Demo)</a>
+            <div class="date">12 MAY 2018</div>
+            <span>React</span>
+          </div>
+        </div>
       </div>
     </div>
   </div>
