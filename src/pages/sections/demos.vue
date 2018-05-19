@@ -82,6 +82,16 @@
             <span>React</span>
           </div>
         </div>
+        <div class="col-xl-3">
+          <div class="project">
+            <a href="http://travel.maianhkha.com/" target="_blank">
+              <img class="w-100" src="~@/assets/images/projects/im-08.jpg" alt=""/>
+            </a>
+            <a class="name" href="http://travel.maianhkha.com/" target="_blank">Travel (Demo)</a>
+            <div class="date">18 MAY 2018</div>
+            <span>React</span>
+          </div>
+        </div>
       </div>
     </div>
   </div>
